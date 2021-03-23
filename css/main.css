@@ -298,6 +298,7 @@ h3 {font-size: 4em;}
 
 .kdbtn {
     margin-top: 40px;
+    margin-bottom: 50px;
 }
 
 .kdbtn a {
@@ -336,7 +337,6 @@ h3 {font-size: 4em;}
 h1 {font-size: 7em;}
 h3 {font-size: 3em;}
 .pagetitle img {position: relative; bottom: 0;}
-.offset-lg-1 .textdiv {margin-top: 50px;}
 }
 
 @media only screen and (max-width : 767px) {
