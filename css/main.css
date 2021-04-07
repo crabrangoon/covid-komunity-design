@@ -298,7 +298,7 @@ h3 {font-size: 4em;}
 
 .kdbtn {
     margin-top: 40px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .kdbtn a {
@@ -317,10 +317,20 @@ h3 {font-size: 4em;}
     background: #5B4411;
 }
 
+.kdlang {
+    margin-bottom: 50px;
+}
+
+.kdlink {
+    color: #138A7E;
+}
+
 .kdemail {
     color: #138A7E;
 }
 
+.kdlink:focus, 
+.kdlink:hover,
 .kdemail:focus, 
 .kdemail:hover {
     color: #117D72;
