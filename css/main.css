@@ -323,6 +323,7 @@ h3 {font-size: 4em;}
 
 .kdlink {
     color: #138A7E;
+    text-decoration: underline;
 }
 
 .kdemail {
