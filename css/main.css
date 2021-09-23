@@ -278,6 +278,8 @@ h3 {font-size: 4em;}
 .fontup {text-transform: uppercase;}
 
 .navbar-brand.font1 {font-weight: 700; color: #333333;}
+a.navbar-brand {text-decoration: none;}
+a.navbar-brand:focus, a.navbar-brand:hover {text-decoration: none;}
 
 .pagetitle {
     margin-top: 40px;
